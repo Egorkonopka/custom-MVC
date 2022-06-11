@@ -1,0 +1,2 @@
+[Thu Apr 14 23:16:21.281656 2022] [core:alert] [pid 1456:tid 1616] [client 127.0.0.1:50180] /var/www/project.my/.htaccess: Invalid command 'AllDefaultCharset', perhaps misspelled or defined by a module not included in the server configuration
+[Thu Apr 14 23:16:45.192795 2022] [core:error] [pid 1448:tid 1566] [client 127.0.0.1:50182] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
