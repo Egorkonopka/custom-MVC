@@ -7,4 +7,11 @@ class NewsController {
         return true;
     }
 
+    public function actionView($category,$id){
+        echo $category;
+        echo '<br>';
+        echo $id;
+        return true;
+    }
+
 }
